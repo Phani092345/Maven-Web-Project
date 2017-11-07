@@ -24,6 +24,5 @@ System.out.println(":::MEthod calling:::");
         js.put("Technology", "DevOps  ");
 
         return js.toString();
-
     }
 }
